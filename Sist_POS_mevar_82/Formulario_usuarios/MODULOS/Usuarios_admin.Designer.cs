@@ -50,7 +50,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(80, 70);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Usuarios";
+            this.label1.Text = "Usuario";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
