@@ -10,14 +10,19 @@ using System.Windows.Forms;
 
 namespace Formulario_usuarios
 {
-    public partial class Form1 : Form
+    public partial class Form_menu_usr : Form
     {
-        public Form1()
+        public Form_menu_usr()
         {
             InitializeComponent();
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
         {
 
         }
