@@ -31,5 +31,15 @@ namespace Formulario_usuarios
         {
 
         }
+
+        private void panel_int_form_reg_usrs_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label1_Click_2(object sender, EventArgs e)
+        {
+
+        }
     }
 }
